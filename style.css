@@ -1,0 +1,30 @@
+.header-head {
+    background: black;
+    color:#fff;             
+}
+.button1 {
+    color:#fff;
+    background: #005FAB;
+}
+.main-p1 {
+    color: #40474E;
+}
+.sarlavha h2 {
+    color:#005FAB;
+}
+.keyingiga-utish {
+    color:#000;
+    border: 3px solid blue;
+    background: inherit;
+}
+.sarlavha2  {
+    color: #005FAB;
+}
+.sarlavha3 {
+    color: #000;
+    border: 2px solid green;
+    background: inherit;
+}
+.paragrif {
+    color:blue ;
+}
