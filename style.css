@@ -28,3 +28,20 @@
 .paragrif {
     color:blue ;
 }
+.rasm1 {
+    background-image: url(image/happy-parents-with-child-home\ \(1\)\ 1.png);
+     height: 610px;
+     background-position: center;
+     background-repeat: no-repeat;
+     background-size: cover;
+}
+.sarlavha img {
+    height: 300px;
+    width: 400px;
+}
+.activ-image {
+    width: 700px !important;
+}
+.rasm2 {
+    background-image: url(image/Rectangle\ 144.png);
+}
